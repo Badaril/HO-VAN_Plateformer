@@ -1,7 +1,7 @@
 # HO-VAN_Plateformer
 
 Création d'un plateformer avec des mécaniques de bases du genre (inspiration CELESTE).  
-Le joueur incarne une chèvre qui doit escalader le mont EVEREST. Elle peut sauter, marcher, creuser et charger.  
+Le joueur incarne une chèvre qui doit escalader le mont EVEREST. Elle peut de déplacer, sauter, marcher, creuser et charger.  
 Sur son chemin vers le sommet, elle rencontrera 2 types de bonhommes de neige : 1 mobile et 1 immobile qui tire des boules de neiges.  
 Si le joueur touche un bonhomme de neige, il perd un PV. Par contre, s'il charge dessus, il peut le tuer et récupérer une carotte afin de récupérer un PV.  
 Il existe des boules en or présentes dans les niveaux. Elles augmentent le score du joueur de 10 points.  
