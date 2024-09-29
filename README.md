@@ -9,7 +9,5 @@ Le jeu est décomposé en 2 niveaux : 1 dans une caverne et 1 à l'extérieur. L
 Pour cela, il doit tout d'abord se rendre dans le second niveau afin de récuperer un bouton.  
 
 # To do list
-- Animations bp player
 - Importations assets pour level design
 - Sound design
-- Mort
