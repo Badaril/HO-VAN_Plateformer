@@ -11,13 +11,3 @@ Pour cela, il doit tout d'abord se rendre dans le second niveau afin de récuper
 # To do list
 - Importations assets pour level design
 - Sound design
-- Obstacles (stalactites, stalagmites, vide)
-- Mecanique des cornes qui se cassent (Unreal et 3D)
-
-# Améliorations et ajouts envisageables
-- Animations
-- Level design
-- Comportements bonhommes de neiges
-- Plus de niveaux
-- Escalade
-- Score en fonction du temps
